@@ -53,7 +53,7 @@ displayData = (data) => {
     temperaturaDegree.textContent = Math.floor(data.list[0].main.temp) + " °C";
     city.textContent = data.list[0].name + ", " + data.list[0].sys.country;
     const icon = data.list[0].weather[0].icon;
-    weatherIcon.innerHTML = `<img src=icons/${icon}.png></img>`;
+    weatherIcon.innerHTML = `<img src=Icons/${icon}.png></img>`;
     min.textContent = Math.floor(data.list[0].main.temp_min);
     max.textContent = Math.floor(data.list[0].main.temp_max);
     weatherDescription.textContent = data.list[0].weather[0].description.charAt(0).toUpperCase()+
