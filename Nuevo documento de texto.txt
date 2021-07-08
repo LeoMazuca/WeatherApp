@@ -1,0 +1,155 @@
+<div class="day" id="day3">
+                    <div class="dayOfWeek">Monday</div>
+                    <div class="iconWeek">
+                        <div id="iconWeek"><img src="Icons/11d.png" alt=""></div>
+                        <div class="weatherDescriptionWeek" id="weatherDescriptionWeek">Sunny</div>
+                    </div>
+                    <div class="weatherWeekDegrees">
+                        <div class="degreeNumberWeek" id="degreeNumberWeek">25°C</div>
+                        <div class="feelsLikeWeek"><small id="fellsLikeWeek">Feels Like 28°C</small></div>
+                    </div>
+                    <div class="hiddenData">
+                        <div class="minMaxWeek">
+                            <div class="weather_min"><small>Min </small><span id="min">15</span>°C</div>
+                            <div class="weather_max"><small>Max </small><span id="max">20</span>°C</div>
+                        </div>
+                        <div class="weatherData">
+                            <div class="firstValue">
+                                <div class="weatherDataImage"><img src="Icons/precipitation.png" alt=""></div>
+                                <div class="weatherDataFirstValue"><strong>Clouds:</strong> 85%</div>
+                            </div>
+                            <div class="secondValue">
+                                <div class="weatherDataImage"><img src="Icons/humidity.png" alt=""></div>
+                                <div class="weatherDataFirstValue"><strong>Wet:</strong> 71%</div>
+                            </div>
+                            <div class="thirdValue">
+                                <div class="weatherDataImage"><img src="Icons/wind.png" alt=""></div>
+                                <div class="weatherDataFirstValue"><strong>Wind Speed:</strong> 2.6 ms</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="day" id="day4">
+                    <div class="dayOfWeek">Monday</div>
+                    <div class="iconWeek">
+                        <div id="iconWeek"><img src="Icons/11d.png" alt=""></div>
+                        <div class="weatherDescriptionWeek" id="weatherDescriptionWeek">Sunny</div>
+                    </div>
+                    <div class="weatherWeekDegrees">
+                        <div class="degreeNumberWeek" id="degreeNumberWeek">25°C</div>
+                        <div class="feelsLikeWeek"><small id="fellsLikeWeek">Feels Like 28°C</small></div>
+                    </div>
+                    <div class="hiddenData">
+                        <div class="minMaxWeek">
+                            <div class="weather_min"><small>Min </small><span id="min">15</span>°C</div>
+                            <div class="weather_max"><small>Max </small><span id="max">20</span>°C</div>
+                        </div>
+                        <div class="weatherData">
+                            <div class="firstValue">
+                                <div class="weatherDataImage"><img src="Icons/precipitation.png" alt=""></div>
+                                <div class="weatherDataFirstValue"><strong>Clouds:</strong> 85%</div>
+                            </div>
+                            <div class="secondValue">
+                                <div class="weatherDataImage"><img src="Icons/humidity.png" alt=""></div>
+                                <div class="weatherDataFirstValue"><strong>Wet:</strong> 71%</div>
+                            </div>
+                            <div class="thirdValue">
+                                <div class="weatherDataImage"><img src="Icons/wind.png" alt=""></div>
+                                <div class="weatherDataFirstValue"><strong>Wind Speed:</strong> 2.6 ms</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="day" id="day5">
+                    <div class="dayOfWeek">Monday</div>
+                    <div class="iconWeek">
+                        <div id="iconWeek"><img src="Icons/11d.png" alt=""></div>
+                        <div class="weatherDescriptionWeek" id="weatherDescriptionWeek">Sunny</div>
+                    </div>
+                    <div class="weatherWeekDegrees">
+                        <div class="degreeNumberWeek" id="degreeNumberWeek">25°C</div>
+                        <div class="feelsLikeWeek"><small id="fellsLikeWeek">Feels Like 28°C</small></div>
+                    </div>
+                    <div class="hiddenData">
+                        <div class="minMaxWeek">
+                            <div class="weather_min"><small>Min </small><span id="min">15</span>°C</div>
+                            <div class="weather_max"><small>Max </small><span id="max">20</span>°C</div>
+                        </div>
+                        <div class="weatherData">
+                            <div class="firstValue">
+                                <div class="weatherDataImage"><img src="Icons/precipitation.png" alt=""></div>
+                                <div class="weatherDataFirstValue"><strong>Clouds:</strong> 85%</div>
+                            </div>
+                            <div class="secondValue">
+                                <div class="weatherDataImage"><img src="Icons/humidity.png" alt=""></div>
+                                <div class="weatherDataFirstValue"><strong>Wet:</strong> 71%</div>
+                            </div>
+                            <div class="thirdValue">
+                                <div class="weatherDataImage"><img src="Icons/wind.png" alt=""></div>
+                                <div class="weatherDataFirstValue"><strong>Wind Speed:</strong> 2.6 ms</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="day" id="day6">
+                    <div class="dayOfWeek">Monday</div>
+                    <div class="iconWeek">
+                        <div id="iconWeek"><img src="Icons/11d.png" alt=""></div>
+                        <div class="weatherDescriptionWeek" id="weatherDescriptionWeek">Sunny</div>
+                    </div>
+                    <div class="weatherWeekDegrees">
+                        <div class="degreeNumberWeek" id="degreeNumberWeek">25°C</div>
+                        <div class="feelsLikeWeek"><small id="fellsLikeWeek">Feels Like 28°C</small></div>
+                    </div>
+                    <div class="hiddenData">
+                        <div class="minMaxWeek">
+                            <div class="weather_min"><small>Min </small><span id="min">15</span>°C</div>
+                            <div class="weather_max"><small>Max </small><span id="max">20</span>°C</div>
+                        </div>
+                        <div class="weatherData">
+                            <div class="firstValue">
+                                <div class="weatherDataImage"><img src="Icons/precipitation.png" alt=""></div>
+                                <div class="weatherDataFirstValue"><strong>Clouds:</strong> 85%</div>
+                            </div>
+                            <div class="secondValue">
+                                <div class="weatherDataImage"><img src="Icons/humidity.png" alt=""></div>
+                                <div class="weatherDataFirstValue"><strong>Wet:</strong> 71%</div>
+                            </div>
+                            <div class="thirdValue">
+                                <div class="weatherDataImage"><img src="Icons/wind.png" alt=""></div>
+                                <div class="weatherDataFirstValue"><strong>Wind Speed:</strong> 2.6 ms</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="day" id="day7">
+                    <div class="dayOfWeek">Monday</div>
+                    <div class="iconWeek">
+                        <div id="iconWeek"><img src="Icons/11d.png" alt=""></div>
+                        <div class="weatherDescriptionWeek" id="weatherDescriptionWeek">Sunny</div>
+                    </div>
+                    <div class="weatherWeekDegrees">
+                        <div class="degreeNumberWeek" id="degreeNumberWeek">25°C</div>
+                        <div class="feelsLikeWeek"><small id="fellsLikeWeek">Feels Like 28°C</small></div>
+                    </div>
+                    <div class="hiddenData">
+                        <div class="minMaxWeek">
+                            <div class="weather_min"><small>Min </small><span id="min">15</span>°C</div>
+                            <div class="weather_max"><small>Max </small><span id="max">20</span>°C</div>
+                        </div>
+                        <div class="weatherData">
+                            <div class="firstValue">
+                                <div class="weatherDataImage"><img src="Icons/precipitation.png" alt=""></div>
+                                <div class="weatherDataFirstValue"><strong>Clouds:</strong> 85%</div>
+                            </div>
+                            <div class="secondValue">
+                                <div class="weatherDataImage"><img src="Icons/humidity.png" alt=""></div>
+                                <div class="weatherDataFirstValue"><strong>Wet:</strong> 71%</div>
+                            </div>
+                            <div class="thirdValue">
+                                <div class="weatherDataImage"><img src="Icons/wind.png" alt=""></div>
+                                <div class="weatherDataFirstValue"><strong>Wind Speed:</strong> 2.6 ms</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>

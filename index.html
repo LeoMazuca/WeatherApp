@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather App</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
+
+</head>
+<body>
+    <div class="container" id="container">
+        <div class="mainWeather" id="mainWeather">
+            <div class="firstPart">
+                <div class="city" id="city"></div>
+                <div class="date" id="date"></div>
+                <div class="icon">
+                    <div id="icon"></div>
+                    <div class="weatherDescription" id="weatherDescription"></div>
+                </div>
+            </div>
+            <div class="secondPart">
+                <div class="degreeNumber" id="degreeNumber"></div>
+                <div class="feelsLike"><small id="fellsLike"></small></div>
+            </div>
+            <div class="thirdPart">
+                <div class="minMax">
+                    <div class="weather_min"><small>Min </small><span id="min"></span>°C</div>
+                    <div class="weather_max"><small>Max </small><span id="max"></span>°C</div>
+                </div>
+                <div class="weatherData">
+                    <div class="firstValue">
+                        <div class="weatherDataImage"><img src="Icons/precipitation.png" alt=""></div>
+                        <div class="weatherDataFirstValue"><strong id="clouds"></strong></div>
+                    </div>
+                    <div class="secondValue">
+                        <div class="weatherDataImage"><img src="Icons/humidity.png" alt=""></div>
+                        <div class="weatherDataFirstValue"><strong id="wet"></strong></div>
+                    </div>
+                    <div class="thirdValue">
+                        <div class="weatherDataImage"><img src="Icons/wind.png" alt=""></div>
+                        <div class="weatherDataFirstValue"><strong id="windSpeed"></strong></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="secondaryWeather" id="secondaryWeather">
+                <form class="search" id="searchSubmit" autocomplete="off">
+                    <input id="searchInput" autocomplete="off" type="text" placeholder="Ingrese la Ciudad...">
+                    <button><i class="fas fa-search"></i></button>
+                </form>
+            <div class="weatherWeek" id="weatherWeek"></div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
