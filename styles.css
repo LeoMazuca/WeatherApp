@@ -91,14 +91,14 @@
     flex-direction: column;
 }
 .mainWeather.dayBackground{
-    background-image: url(img/day.jpg);
+    background-image: url(Img/day.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center; 
     transition: all ease-in-out 1s;
 }
 .mainWeather.nightBackground{
-    background-image: url(img/night.jpg);
+    background-image: url(Img/night.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center; 
